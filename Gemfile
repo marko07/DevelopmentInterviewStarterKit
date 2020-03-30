@@ -20,6 +20,7 @@ gem 'omniauth'
 gem 'foreman'
 gem 'rake'
 gem 'dotenv-rails'
+gem 'bootstrap-sass'
 
 group :development, :test do
   gem 'rspec-rails', '~> 4.0.0'
