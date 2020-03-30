@@ -21,7 +21,7 @@ window.store = store
 // bootstrap state
 store.dispatch(fetchMe());
 
-ReactDOM.render(
-  <App store={store} />,
-  document.getElementById('root')
-);
+// ReactDOM.render(
+//   <App store={store} />,
+//   document.getElementById('root')
+// );
